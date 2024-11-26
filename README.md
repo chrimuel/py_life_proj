@@ -1,2 +1,3 @@
-# py_life_proj
-Manning Liveproject Think Python
+# Manning Live Project: Think Computationally with Python
+## How to Think about Solving a Maze
+
