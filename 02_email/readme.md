@@ -1,4 +1,4 @@
-# about this liveProject
+# Think Computationally with Python: How to Think about Automating Email
 
 In this liveProject, you will be acting as a high school teacher. You have just finished reading your very first Python programming book. In true teacher (and lifelong-learner) fashion, you want to use your newly learned skills to become more efficient in a part of your job that doesn’t really focus on teaching: sending out grades to your students. Your students have just answered three questions about an assigned book. You’d like to send everyone an email with their scores on each question, along with any comments you have. Additionally, you’d like to pick a student at random to talk about the book in front of the class.
 
